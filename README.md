@@ -1,7 +1,6 @@
 # ODB2BMPDemo
 Binaries &amp; demo data only 
 
-For a password to unzip the file, please send an email to contact.thinh@gmail.com
 
 1. Open demo ODB++ project: 
 - Click Open -> Choose folder named 'ODB Sample'-> OK 
