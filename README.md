@@ -25,4 +25,3 @@ For a password to unzip the file, please send an email to contact.thinh@gmail.co
 
 6. Setting:
 - Click the Setting (Gear) button. 
-- Change Resolution (Metric unit by default). 
